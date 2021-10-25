@@ -18,3 +18,7 @@ You'll need [Node.js](https://nodejs.org/) on your local development machine.
 2. Visit `http://localhost:3000`
 3. Enjoy :)
 
+## Features
+
+* Support:
+  * Pokemon search
