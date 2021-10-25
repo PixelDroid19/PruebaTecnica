@@ -14,9 +14,10 @@ You'll need [Node.js](https://nodejs.org/) on your local development machine.
 
 ## Up and running
 
-1. Run `$ npm run start or yarn start`
-2. Visit `http://localhost:3000`
-3. Enjoy :)
+1. install Package `$ npm install or yarn`
+2.  Run `$ npm run start or yarn start`
+3. Visit `http://localhost:3000`
+4. Enjoy :)
 
 ## Features
 
