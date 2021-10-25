@@ -8,8 +8,8 @@ A simple application, built with React, Redux, javascript and Material UI
 
 You'll need [Node.js](https://nodejs.org/) on your local development machine.
 
-1. Clone the repo
-2. Node Js `$ npm install`
+1. Install Node Js `[Node web](https://nodejs.org/)`
+2. Clone the repo
 3. Run `$ npm install or yarn` to install the dependencies
 
 ## Up and running
