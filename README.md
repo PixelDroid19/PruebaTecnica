@@ -24,6 +24,6 @@ You'll need [Node.js](https://nodejs.org/) on your local development machine.
   * Pokemon search
   * Pokemon Features
   * Login, Register and Logout
-  * 
+  
 # Demo
 [Live demo](https://pokemonpage-53d31.web.app/)
