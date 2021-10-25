@@ -10,14 +10,13 @@ You'll need [Node.js](https://nodejs.org/) on your local development machine.
 
 1. Clone the repo
 2. Node Js `$ npm install`
-3. Run `$ npm install` to install the dependencies
+3. Run `$ npm install or yarn` to install the dependencies
 
 ## Up and running
 
-1. install Package `$ npm install or yarn`
-2.  Run `$ npm run start or yarn start`
-3. Visit `http://localhost:3000`
-4. Enjoy :)
+1.  Run `$ npm run start or yarn start`
+2. Visit `http://localhost:3000`
+3. Enjoy :)
 
 ## Features
 
